@@ -4,3 +4,9 @@ This is a responsive website with a full-screen background video and overlay con
 
 ## Screenshots of the Website
 ![screenshot_of_website](Screenshot/screenshot_of_website.png)
+
+## Demo
+
+You can view the live demo of this project by clicking the link below:
+
+[Click here to view the demo](https://skylaryhu.github.io/loading-animation/](https://skylaryhu.github.io/video-background-website/))
